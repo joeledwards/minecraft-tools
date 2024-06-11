@@ -1,9 +1,9 @@
-# Minecraft Utils
+# Minecraft Tools
 
 ## Install
 
 ```
-npm i minecraft-utils
+npm i minecraft-tools
 ```
 
 ## Usage
