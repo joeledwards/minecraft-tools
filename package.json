@@ -11,7 +11,7 @@
     "url": "git+https://github.com/joeledwards/minecraft-tools.git"
   },
   "bin": {
-    "mcu": "bin/mcu.js"
+    "mct": "bin/mct.js"
   },
   "files": [
     "package.json",

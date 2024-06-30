@@ -9,12 +9,12 @@ npm i minecraft-tools
 ## Usage
 
 ```
-mcu --help
+mct --help
 ```
 
 
 ### Fetch a user's UUID
 
 ```
-mcu uuid <username>
+mct uuid <username>
 ```
